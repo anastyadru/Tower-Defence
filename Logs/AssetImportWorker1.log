@@ -1,0 +1,122 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.2486; Version 2009; 64bit' Language: 'ru' Physical Memory: 7805 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+G:/Учеба/C#/Unity задачи/Tower Defence
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55816
+Successfully changed project path to: G:/Учеба/C#/Unity задачи/Tower Defence
+G:/Учеба/C#/Unity задачи/Tower Defence
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 458.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Учеба/C#/Unity задачи/Tower Defence/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   10.18.10.5161
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.024563 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1205.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.954 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 615.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.798 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3966 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4416.
+Total: 8.100800 ms (FindLiveObjects: 0.572500 ms CreateObjectMapping: 0.535500 ms MarkObjects: 5.684900 ms  DeleteObjects: 1.304800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(a4ae77274caaf274c9ddc50306e99a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(a4ae77274caaf274c9ddc50306e99a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7d422b601a445c5872b9dca4ab21ad') in 0.016323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 255.966709 seconds.
+  path: Assets/Sprites/arrow@2x.png
+  artifactKey: Guid(b0850992604f54642b20eb569a1818b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/arrow@2x.png using Guid(b0850992604f54642b20eb569a1818b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c12c76550139d59e76b164dfb7ba5bb') in 0.373453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001081 seconds.
+  path: Assets/Sprites/carrot.png
+  artifactKey: Guid(d5ffef74e1868ac4f848c30e1b2813c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/carrot.png using Guid(d5ffef74e1868ac4f848c30e1b2813c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0274c7e018b72aaf86fdbe86c9bbfbc') in 0.075789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000898 seconds.
+  path: Assets/Sprites/bg_tile.png
+  artifactKey: Guid(6d9348531775f594d94713c0c313f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bg_tile.png using Guid(6d9348531775f594d94713c0c313f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef0d6484e477e57b275f15f6173ec6f') in 0.119790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Sprites/tower_bunnies.png
+  artifactKey: Guid(61179e6862d0b4b438b5712449e97434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/tower_bunnies.png using Guid(61179e6862d0b4b438b5712449e97434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46549581086faf2bdfa86882e6fee11b') in 0.029886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Sprites/bottom.png
+  artifactKey: Guid(5990bc6770480cb40a1b48975222d825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bottom.png using Guid(5990bc6770480cb40a1b48975222d825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6dd85cec03e18ac3b088537c6c59f75') in 0.139110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Sprites/bunny_1.png
+  artifactKey: Guid(5a057c2b4349f0f4496a2edbaf26dbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bunny_1.png using Guid(5a057c2b4349f0f4496a2edbaf26dbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21fa16632d8667490f240bfbacbd498') in 0.024849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Sprites/badger_01.png
+  artifactKey: Guid(5e07d94e38547114f8ff667a3bcb822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/badger_01.png using Guid(5e07d94e38547114f8ff667a3bcb822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29458a28f3bde1fee86fbb90c58c87c5') in 0.053445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Sprites/tile_path_step.png
+  artifactKey: Guid(5d7bf66ecd4b49a479a8ed597d9a6eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/tile_path_step.png using Guid(5d7bf66ecd4b49a479a8ed597d9a6eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e861c37671adcc1dd9d46d8725d2f6') in 0.043237 seconds 
