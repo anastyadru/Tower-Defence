@@ -246,3 +246,9 @@ Received Import Request.
   path: Assets/Animated 2D Coins/Sprite Sheet/EUR_6x4.png
   artifactKey: Guid(568bc9ecebe5bd946a601aea36334ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Animated 2D Coins/Sprite Sheet/EUR_6x4.png using Guid(568bc9ecebe5bd946a601aea36334ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a917bf64e5e57fe43ca2f2ee05edc99') in 0.260028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3605.221396 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(2cdf16ab680e8014e90218d26dda2b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(2cdf16ab680e8014e90218d26dda2b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0d5e1ae29fd85b0b0f28452a5e9a6d') in 0.045535 seconds 
