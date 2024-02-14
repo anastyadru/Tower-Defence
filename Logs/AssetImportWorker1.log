@@ -120,3 +120,129 @@ Received Import Request.
   path: Assets/Sprites/tile_path_step.png
   artifactKey: Guid(5d7bf66ecd4b49a479a8ed597d9a6eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/tile_path_step.png using Guid(5d7bf66ecd4b49a479a8ed597d9a6eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e861c37671adcc1dd9d46d8725d2f6') in 0.043237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79907.511691 seconds.
+  path: Assets/Animated 2D Coins
+  artifactKey: Guid(0eabb2d5f4067af41a5f4525dca1e775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins using Guid(0eabb2d5f4067af41a5f4525dca1e775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4a65a36b96d7fe90001bafa1850a4a') in 0.030339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.864898 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(6f7adb26084e0c142bb5b4c2b9ff2e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(6f7adb26084e0c142bb5b4c2b9ff2e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf572f885acb94887cfe9619fd60bee8') in 0.040506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.699840 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(e353c67a40d4ed34194fa63463ada55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(e353c67a40d4ed34194fa63463ada55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a4364297fb31544612faee5167d97c') in 0.028228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Resources/DOTweenSettings.asset
+  artifactKey: Guid(7ae5041b6118948428972ef986f551f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/DOTweenSettings.asset using Guid(7ae5041b6118948428972ef986f551f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa7754dfde539425465e793277a8647') in 0.190726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.419372 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(02b680d69b4cfbe43a9055047ea32990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(02b680d69b4cfbe43a9055047ea32990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3cb34774d0dbfd4d24261da1fde695') in 0.008090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.411659 seconds.
+  path: Assets/Plugins/Zenject
+  artifactKey: Guid(8820899aa634d9b4891ee8b74c6b2108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Zenject using Guid(8820899aa634d9b4891ee8b74c6b2108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc46ddc9018c0b6b9b70e87e1eaacf0e') in 0.016603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.077770 seconds.
+  path: Assets/Plugins/Zenject/zenject.asmdef
+  artifactKey: Guid(0d8beb7f090555447a6cf5ce9e54dbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Zenject/zenject.asmdef using Guid(0d8beb7f090555447a6cf5ce9e54dbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bc78f3deff46b73c8acc3fb429fb5e') in 0.028331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.656060 seconds.
+  path: Assets/Animated 2D Coins/Animation
+  artifactKey: Guid(e61bb11bc0569a64ab855b26bddefc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Animation using Guid(e61bb11bc0569a64ab855b26bddefc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e899178a45e255e5112ee5e041b4fc') in 0.012271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.028864 seconds.
+  path: Assets/Animated 2D Coins/Prefab
+  artifactKey: Guid(1931ba506140b324cab0f8034c56fdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab using Guid(1931ba506140b324cab0f8034c56fdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '453b29bec68823761735212ca6e496b6') in 0.016978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Animated 2D Coins/Prefab/EUR.prefab
+  artifactKey: Guid(0549d489ad7b5714ca2eec0140feeef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab/EUR.prefab using Guid(0549d489ad7b5714ca2eec0140feeef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c8cbfb766ac4dd1942e1f836cc5c3c') in 0.151486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Animated 2D Coins/Prefab/JPY.prefab
+  artifactKey: Guid(b8e7fde7b294b46449cd9ebe8530b2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab/JPY.prefab using Guid(b8e7fde7b294b46449cd9ebe8530b2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5c74151cdc250fa1228316ccacd757') in 0.010431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Animated 2D Coins/Prefab/GBP.prefab
+  artifactKey: Guid(0654a34295c87b9488c6779e4ddd165b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab/GBP.prefab using Guid(0654a34295c87b9488c6779e4ddd165b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87d6521e8ad3e1e003773aa28a1ac4e') in 0.009595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Animated 2D Coins/Prefab/USD.prefab
+  artifactKey: Guid(8645a0f5dbe846a4bae22a67d2144035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab/USD.prefab using Guid(8645a0f5dbe846a4bae22a67d2144035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ebf0bc1c953a695124c67c634dcade') in 0.008500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Animated 2D Coins/Prefab/UAH.prefab
+  artifactKey: Guid(fed683c4b3747f641ad0b7ffe2e286d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Prefab/UAH.prefab using Guid(fed683c4b3747f641ad0b7ffe2e286d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b260a6e5d1204179fa140bee6490981b') in 0.031386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.178815 seconds.
+  path: Assets/Animated 2D Coins/Scene
+  artifactKey: Guid(c30d317e9860cb34790df69afdde6105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Scene using Guid(c30d317e9860cb34790df69afdde6105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92684cf4a273d02cc4fac95558da135c') in 0.019391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.242611 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet
+  artifactKey: Guid(45757f39c6e198240a4c0c490d2672d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet using Guid(45757f39c6e198240a4c0c490d2672d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70afb7081054095d626e2bbdbf4dc794') in 0.010450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet/UAH_6x4.png
+  artifactKey: Guid(1ef2a1a0ee1bc204891ec7e6ee9e03fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet/UAH_6x4.png using Guid(1ef2a1a0ee1bc204891ec7e6ee9e03fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011eabd9f40a8c965c03ed994f999216') in 0.257349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet/USD_6x4.png
+  artifactKey: Guid(7ead8ba5dc6d79f4da1cc2f449bde712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet/USD_6x4.png using Guid(7ead8ba5dc6d79f4da1cc2f449bde712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e057b398c8252d7fae3a138be6b06af9') in 0.158545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet/GBP_6x4.png
+  artifactKey: Guid(fd4d6fe9efaae5e4eaf33aa14b7adcc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet/GBP_6x4.png using Guid(fd4d6fe9efaae5e4eaf33aa14b7adcc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4561c6fb0a1c86599e42b24e6ac68aca') in 0.164312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet/JPY_6x4.png
+  artifactKey: Guid(7a64d093929a4bc45ae1993d93258ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet/JPY_6x4.png using Guid(7a64d093929a4bc45ae1993d93258ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a93915b8ba863ca3fce0d4d91885ac3') in 0.194286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/Animated 2D Coins/Sprite Sheet/EUR_6x4.png
+  artifactKey: Guid(568bc9ecebe5bd946a601aea36334ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated 2D Coins/Sprite Sheet/EUR_6x4.png using Guid(568bc9ecebe5bd946a601aea36334ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a917bf64e5e57fe43ca2f2ee05edc99') in 0.260028 seconds 
