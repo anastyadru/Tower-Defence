@@ -90,3 +90,15 @@ Received Import Request.
   path: Assets/Plugins/Zenject
   artifactKey: Guid(79001ebccb324824db882d978c4b79cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Plugins/Zenject using Guid(79001ebccb324824db882d978c4b79cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052c7f30c055c3171043c244322b984b') in 0.024112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61976.596361 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(c442682215420c44c8c5ad3c0a8f23ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(c442682215420c44c8c5ad3c0a8f23ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a184bee1f1dfdb8ffd29f0fa7dcc90') in 0.013102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.056885 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(e9121c4462c37264296906506695ecd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(e9121c4462c37264296906506695ecd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbd44a4c6c68822797d8689a680e826') in 0.037593 seconds 
