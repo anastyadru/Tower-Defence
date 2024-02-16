@@ -112,7 +112,6 @@
 -define:CSHARP_7_3_OR_NEWER
 -r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
 -r:"Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
--r:"Assets/Plugins/Demigiant/DOTween/Editor/DOTweenUpgradeManager.dll"
 -r:"Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.dll"
 -r:"Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll"
 -r:"Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll"
@@ -327,14 +326,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/IKEditorManager.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/IKGizmos.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/Inspectors/CCDSolver2DEditor.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/Inspectors/FabrikSolver2DEditor.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/Inspectors/IKManager2DEditor.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/Inspectors/LimbSolver2DEditor.cs"
-"Library/PackageCache/com.unity.2d.animation@6.0.1/IK/Editor/Inspectors/Solver2DEditor.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/IKEditorManager.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/IKGizmos.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/Inspectors/CCDSolver2DEditor.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/Inspectors/FabrikSolver2DEditor.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/Inspectors/IKManager2DEditor.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/Inspectors/LimbSolver2DEditor.cs"
+"Library/PackageCache/com.unity.2d.animation@5.0.9/IK/Editor/Inspectors/Solver2DEditor.cs"
 -langversion:8.0
 
 /deterministic
